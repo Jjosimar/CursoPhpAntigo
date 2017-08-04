@@ -1,0 +1,24 @@
+comandos cmd 
+nkdir php - cria uma pasta com o nome php
+
+git init - iniciar um o git no repositorio 
+
+git add index.php - adicionar o arquivo no repositorio
+git add --all - todos arquivos
+git commit -m "aqui a mensagem"
+
+se eu fizer um projeto la no git web, e ja criado uma passa aqui feito 
+os comandos acima... segue abaixo os comandos
+
+git remote add origin aqui é a copia da url do projeto
+git config --global user.name "nome do usuario"
+git config --global user.email "email que cadastrei no git"
+
+git push origin master - empurrando para origin
+
+git pull - atualizar 
+
+
+
+
+BitBucket - 5 usuarios em cada projeto (projeto privado- gratuito)

@@ -1,0 +1,14 @@
+instalação de ambiente 
+
+************Anotações******************
+
+HTTPD.CONF - Nome do arquivo de configuração do APACHEO
+
+porta 3306 - mysql
+        80 - apache
+
+************Cliente Servidor*********************
+Request - qundo solicita uma informação
+Responce - recebe uma resposta
+
+instalar o php no servidor
