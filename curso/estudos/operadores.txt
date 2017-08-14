@@ -1,0 +1,3 @@
+um sinal de igual "=" atribui o valor
+dois = comparação
+tres = pra comparar se sao do mesmo tipo ex. numero decimal e diferente do float
