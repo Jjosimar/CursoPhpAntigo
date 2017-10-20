@@ -1,0 +1,9 @@
+require: obriga a inclusao do arquivo que ele esteja correto e que ele exista.
+
+
+include: tenta funcionar mesmo que o arquivo nao exista e que esteja com erros.
+o include pef que pode mapear uma pasta no sistema operacional e colocar no repositorio
+
+
+o require é o melhor
+

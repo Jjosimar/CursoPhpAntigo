@@ -1,0 +1,6 @@
+funçoes*****
+
+valores que sao definidos obrigatorios (aqueles que nao tem valor atribuidos), colocar a esquerda
+e o que nao sao que possui valor ja pre-definidos (ex.: $valor = "coisa"), a direita.
+
+pesquisar os novos recursos do php 7
