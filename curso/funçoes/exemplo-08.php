@@ -1,6 +1,12 @@
 <?php
 
 //declaração de tipos de escalares todos valores que vao vim na função vao ser convertidos pra interiro
+
+/*function soma(int ...$valores):string{ //retorno string
+
+    return array_sum($valores);
+}*/
+
 function soma(float ...$valores):float/*:string*/{ //retorno string
 
     return array_sum($valores);

@@ -6,7 +6,7 @@ while ($condicao){
 
     $numero = rand(1, 10);
     if($numero ===3){
-        echo "Tres!!!";
+        echo "Tres!!! ";
         $condicao =false;
     }
     echo $numero . " ";

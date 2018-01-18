@@ -24,5 +24,6 @@ if ($qualASuaIdade < $idadeCrianca){
 
 //condição simples e rapida
 echo "</br>";
+// "?" significa entao  ":" senao
 echo ($qualASuaIdade < $idadeMaior)? "menor de idade":"Maior de idade";
 ?>

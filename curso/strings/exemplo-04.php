@@ -2,6 +2,8 @@
 
 $frase = "A repetição é mae da retenção";
 
+//$q = strpos($frase, "mae"); //ate chegar a palavra mae
+//var_dump($q);
 $palavra = "mae";
 $q = strpos($frase, $palavra);
 $texto = substr($frase, 0 , $q);

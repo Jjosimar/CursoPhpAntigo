@@ -1,9 +1,9 @@
 <?php
 //colocar as letras maiuscula
 /*$nome = " josimar candido";
-echo strtoupper($nome);
+echo strtoupper($nome);*/
 
-$nome = "JOSIMAR MAZOLA";
+/*$nome = "JOSIMAR MAZOLA";
 echo "<br>" . $nome . "<br>";
 
 echo strtolower($nome) ."<br>";

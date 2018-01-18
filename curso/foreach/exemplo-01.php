@@ -7,6 +7,13 @@ $meses = array(
     "Otubro", "Novembro", "Dezembro"
 );
 
+/*foreach ($meses as  $mes){
+
+    echo " O mes é:" .$mes ."<br><br>";
+}
+?>*/ 
+
+
 foreach ($meses as $index => $mes){
 
     echo "indice: " .$index ."<br>";

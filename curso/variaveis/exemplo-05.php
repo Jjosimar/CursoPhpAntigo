@@ -7,13 +7,13 @@
      echo $nome;
  }
 
- function teste2(){
-    $nome = "joao";
-    echo $nome. " agora no teste2";
+ function teste2($nome){
+   // $nome = "joao";
+    echo "</br>" . $nome. " agora no teste2";
 
  }
 
  teste();
- teste2();
+ teste2($nome);
 
 ?>

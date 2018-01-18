@@ -14,4 +14,6 @@ array_push($pessoas, array(
 ));
 
 print_r($pessoas[0]['nome']);
+//print_r($pessoas[0]);
+//print_r($pessoas);
 ?>

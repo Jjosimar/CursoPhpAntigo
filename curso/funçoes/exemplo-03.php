@@ -7,6 +7,10 @@
     }
 
     echo ola("mundo");
-    echo ola("josimar");
-    echo ola("mari0");
+    echo ola("");
+    echo ola("josimar", "Boa noite");
+    echo ola("mari0", "");
+
+
+    ///parametros  que nao possui valor padrao colocar a esquerda e os que possui colocar mais a esquerda
 ?>

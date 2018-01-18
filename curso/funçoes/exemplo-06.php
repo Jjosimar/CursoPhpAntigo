@@ -7,7 +7,9 @@ $pessoa = array(
 
 foreach ($pessoa as &$value ){
 
-    if (gettype($value) === 'integer') $value +=10;
+     //if (gettype($value) === 'integer') $value += 10;
+
+    if (gettype($value) === 'string') $value ='candido';
 
     echo $value . '<br>';
 }

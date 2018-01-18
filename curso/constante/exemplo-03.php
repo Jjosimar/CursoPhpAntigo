@@ -1,4 +1,5 @@
 <?php
+echo "<br>";
 
 echo PHP_VERSION;
 

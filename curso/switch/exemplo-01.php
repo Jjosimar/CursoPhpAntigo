@@ -1,6 +1,6 @@
 <?php
 
-$diaDaSemana = 8 ;//date("w");
+$diaDaSemana = 6 ;//date("w"); //dia atual
 
 //echo $diaDaSemana;
 

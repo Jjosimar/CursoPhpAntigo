@@ -13,7 +13,7 @@ if(isset ($_GET)){
 
         echo "Nome do campo:" .$key . "<br>";
         echo "Valor do campo:" . $value;
-        echo "<br>";
+        echo "<hr>";
     }
 }
 ?>

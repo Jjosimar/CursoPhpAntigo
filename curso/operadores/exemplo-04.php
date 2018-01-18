@@ -15,13 +15,13 @@ var_dump($a == $b); //um sinal de igual operador de atribuição e dois compara�
 
 echo "<br>";
 
-var_dump($a === $b); 
+var_dump($a === $b); // se é diferente o tipo de dado tbm
 
 echo "<br>";
 
-var_dump($a != $b);
+var_dump($a != $b); // se sao diferente 
 
 echo "<br>";
 
-var_dump($a !== $b);
+var_dump($a !== $b); // se sao diferente o tipo de dado tbm 
 ?>
